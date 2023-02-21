@@ -1,11 +1,12 @@
 # Coffee-Shops
 
-This is record for final tableau project on Coursera. Link: https://www.coursera.org/specializations/data-visualization
-Detail and summary is in Coffee Shop Analyse.pdf
+This is record for final tableau project on [Coursera](https://www.coursera.org/specializations/data-visualization). 
+
+Detail and summary is in [Coffee Shop Analyse.pdf](https://github.com/JWL0515/Coffee-Shops/blob/main/Coffee%20Shop%20Analyse.pdf)
 
 ## Tableau Story
 
-Tableau public: https://public.tableau.com/app/profile/jiawei.li3411/viz/CoffeeChainAnalyse/CoffeeChainAnalyse?publish=yes
+Project is in [Tableau public](https://public.tableau.com/app/profile/jiawei.li3411/viz/CoffeeChainAnalyse/CoffeeChainAnalyse?publish=yes)
 
 ### Market size, product type and total profit
 
